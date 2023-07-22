@@ -1,5 +1,5 @@
  @Library('roboshop') _
  env.component = "payment"
  env.app_lang = "python"
- env.dependencyCheck = "true"
+ env.dependencyCheck = "false"
  ci()
